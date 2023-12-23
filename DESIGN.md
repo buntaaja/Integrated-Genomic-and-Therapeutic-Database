@@ -3,7 +3,7 @@
 By Aja Bunta
 Project Name: "Integrated Genomic and Therapeutic Database: Exploring miRNA-Gene-Disease-Drug Interactions"
 
-Video overview: <https://www.youtube.com/watch?v=pbL5FiQk3ZE>
+[Video overview](https://www.youtube.com/watch?v=pbL5FiQk3ZE)
 
 ## Scope
 
